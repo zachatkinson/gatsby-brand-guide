@@ -1,0 +1,20 @@
+import React from "react"
+import Layout from "../components/layout"
+
+import SEO from "../components/seo"
+
+const VisionPage = () => (
+    <Layout>
+        <SEO title="Vision Statement"/>
+        <h1><strong>Vision Statement</strong></h1>
+        <p>For decades, skateboard hardware has been a side product for many brands. These brands offer hardware as a
+            way to complement their main product. At Philly’s, our goal is to perfect hardware as much as possible from
+            old school to new school. We plan to do this by offering the largest selection of colours in the market,
+            adding a collectible sticker in each pack (as well as a Philly’s brand sticker) and offering new limited
+            edition colour combos each season. Our goal is to create the best value for hardware, while also keeping
+            skating fresh and exciting. We work hard to keep skating alive, and know what it’s like to be on a budget
+            when buying a full new set or deck.</p>
+    </Layout>
+)
+
+export default VisionPage
