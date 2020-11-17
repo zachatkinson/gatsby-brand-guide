@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatsby-ssr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/color-swatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/seo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gatsby-astronaut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gatsby-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/icons/menu.inline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo.inline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/mission.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/page-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/tone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/typography.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/using-typescript.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/vision.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/burger-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/burger-menu.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/burger-menu.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/burger-menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/color-swatch.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/color-swatch.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/color-swatch.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/color-swatch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +25,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,11 +46,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605648223954</updated>
-      <workItem from="1605648225278" duration="322000" />
+      <workItem from="1605648225278" duration="837000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="678" height="200" key="GridCell.Tab.0.bottom" timestamp="1605648408548">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="678" height="200" key="GridCell.Tab.0.bottom/0.23.1440.783@0.23.1440.783" timestamp="1605648408548" />
+    <state width="678" height="200" key="GridCell.Tab.0.center" timestamp="1605648408547">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="678" height="200" key="GridCell.Tab.0.center/0.23.1440.783@0.23.1440.783" timestamp="1605648408547" />
+    <state width="678" height="200" key="GridCell.Tab.0.left" timestamp="1605648408546">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="678" height="200" key="GridCell.Tab.0.left/0.23.1440.783@0.23.1440.783" timestamp="1605648408546" />
+    <state width="678" height="200" key="GridCell.Tab.0.right" timestamp="1605648408548">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="678" height="200" key="GridCell.Tab.0.right/0.23.1440.783@0.23.1440.783" timestamp="1605648408548" />
   </component>
 </project>
