@@ -1,21 +1,17 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const TypePage = () => (
     <Layout>
         <SEO title="Typography" />
         <h1><strong>Typography</strong></h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-            <Image />
-        </div>
-        <Link to="/page-2/">Go to page 2</Link> <br />
-        <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+        <h2><strong>Futura Regular</strong></h2>
+            <hr />
+        <p className={`typography-sample`}>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</p>
+        <p className={`typography-sample`}>a b c d e f g h i j k l m n o p q r s t u v w x y z</p>
+        <p className={`typography-sample`}>1 2 3 4 5 6 7 8 9 0 ( ! ? & % $ . , ; : )</p>
     </Layout>
 )
 
