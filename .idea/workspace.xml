@@ -4,6 +4,15 @@
     <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/font-swatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/font-swatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/typography.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/typography.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/color-swatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/color-swatch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/font-swatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/font-swatch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +80,10 @@
       <screen x="0" y="23" width="1440" height="783" />
     </state>
     <state x="486" y="23" key="CommitChangelistDialog2/0.23.1440.783@0.23.1440.783" timestamp="1605673593880" />
-    <state x="561" y="200" width="695" height="467" key="EditFileWatcherDialog" timestamp="1605672508797">
+    <state x="561" y="200" width="695" height="467" key="EditFileWatcherDialog" timestamp="1605736465167">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
-    <state x="561" y="200" width="695" height="467" key="EditFileWatcherDialog/0.23.1440.783@0.23.1440.783" timestamp="1605672508797" />
+    <state x="561" y="200" width="695" height="467" key="EditFileWatcherDialog/0.23.1440.783@0.23.1440.783" timestamp="1605736465167" />
     <state width="678" height="200" key="GridCell.Tab.0.bottom" timestamp="1605657747859">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
@@ -91,10 +100,10 @@
       <screen x="0" y="23" width="1440" height="783" />
     </state>
     <state width="678" height="200" key="GridCell.Tab.0.right/0.23.1440.783@0.23.1440.783" timestamp="1605657747859" />
-    <state x="411" y="53" key="SettingsEditor" timestamp="1605672510226">
+    <state x="411" y="53" key="SettingsEditor" timestamp="1605736466474">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
-    <state x="411" y="53" key="SettingsEditor/0.23.1440.783@0.23.1440.783" timestamp="1605672510226" />
+    <state x="411" y="53" key="SettingsEditor/0.23.1440.783@0.23.1440.783" timestamp="1605736466474" />
     <state x="509" y="154" key="Vcs.Push.Dialog.v2" timestamp="1605735935259">
       <screen x="0" y="23" width="1440" height="783" />
     </state>

@@ -118,9 +118,26 @@ h1, h2, h3, h4, h5, h6 {
   fill: var(--orange-phillys);
 }
 
-.typography-sample {
-  font-size: 2rem;
-  line-height: 2rem;
+.color-header {
+  margin-bottom: 0px;
+}
+
+.typography-wrap {
+  display: flex;
+}
+@media only screen and (max-width: 600px) {
+  .typography-wrap {
+    flex-direction: column;
+  }
+}
+.typography-wrap .typography-description {
+  flex-grow: 1;
+  margin: 1rem;
+  flex-basis: 50%;
+}
+.typography-wrap .typography-display {
+  margin: 1rem;
+  flex-grow: 2;
 }
 
 /*# sourceMappingURL=main.css.map */

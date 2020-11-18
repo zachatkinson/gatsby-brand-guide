@@ -189,21 +189,21 @@ const ColorsPage = () => (
     <Layout>
         <SEO title="Brand Colors" />
         <h1><strong>Brand Colors</strong></h1>
-        <h2><strong>Primary Colors</strong></h2>
+        <h2 className={`color-header`}><strong>Primary Colors</strong></h2>
         <hr />
         <div className={`swatch-list`}>
             {primaryColors.map(color => (
                 <ColorSwatch hex={color.hex} rgb={String(color.red) + ` ` + String(color.green) + ` ` + String(color.blue)} title={color.name} cmyk={`C ` + color.cyan + ` M ` + color.magenta + ` Y ` + color.yellow + ` K ` + color.black} />
                 ))}
         </div>
-        <h2><strong>Secondary Colors</strong></h2>
+        <h2 className={`color-header`}><strong>Secondary Colors</strong></h2>
         <hr />
         <div className={`swatch-list`}>
         {secondaryColors.map(color => (
             <ColorSwatch hex={color.hex} rgb={String(color.red) + ` ` + String(color.green) + ` ` + String(color.blue)} title={color.name} cmyk={`C ` + color.cyan + ` M ` + color.magenta + ` Y ` + color.yellow + ` K ` + color.black} />
         ))}
         </div>
-        <h2><strong>Grayscale</strong></h2>
+        <h2 className={`color-header`}><strong>Grayscale</strong></h2>
         <hr />
         <div className={`swatch-list`}>
             {grayScale.map(color => (
