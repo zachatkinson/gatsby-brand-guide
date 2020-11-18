@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/components/font-swatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/font-swatch.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/colors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/typography.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/typography.js" afterDir="false" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605648223954</updated>
       <workItem from="1605648225278" duration="1192000" />
-      <workItem from="1605671394362" duration="1473000" />
+      <workItem from="1605671394362" duration="1766000" />
     </task>
     <servers />
   </component>
