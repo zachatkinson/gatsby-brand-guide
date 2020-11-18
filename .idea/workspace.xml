@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/font-swatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/font-swatch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/colors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/typography.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/typography.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/color-swatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/color-swatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/font-swatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/font-swatch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
-    </list>
+    <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
