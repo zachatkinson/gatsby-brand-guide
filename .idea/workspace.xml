@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/font-swatch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/font-swatch.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/colors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/typography.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/typography.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/font-swatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/font-swatch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +47,30 @@
       <option name="presentableId" value="Default" />
       <updated>1605648223954</updated>
       <workItem from="1605648225278" duration="1192000" />
-      <workItem from="1605671394362" duration="1766000" />
+      <workItem from="1605671394362" duration="3085000" />
     </task>
+    <task id="LOCAL-00001" summary="Font Swatch Files Added">
+      <created>1605673594011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605673594011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Font Swatch Files Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Font Swatch Files Added" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1605673593880">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state x="486" y="23" key="CommitChangelistDialog2/0.23.1440.783@0.23.1440.783" timestamp="1605673593880" />
     <state x="561" y="200" width="695" height="467" key="EditFileWatcherDialog" timestamp="1605672508797">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
@@ -86,5 +95,9 @@
       <screen x="0" y="23" width="1440" height="783" />
     </state>
     <state x="411" y="53" key="SettingsEditor/0.23.1440.783@0.23.1440.783" timestamp="1605672510226" />
+    <state x="509" y="154" key="Vcs.Push.Dialog.v2" timestamp="1605735935259">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state x="509" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1605735935259" />
   </component>
 </project>
