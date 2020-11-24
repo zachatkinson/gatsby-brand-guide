@@ -54,7 +54,7 @@ const BackgroundSection = (props, {className}) => {
             backgroundColor={props.bgColor}
         >
             <h2>{props.quote}</h2>
-            <cite>{props.author}</cite>
+            <cite><strong>{props.author}</strong></cite>
         </BackgroundImage>
     )
 }
