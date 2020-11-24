@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/icons/menu.inline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg/menu.inline.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/logo.inline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg/logo.inline.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/logo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.min.css" afterDir="false" />
@@ -43,6 +49,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/svg" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
@@ -60,7 +69,8 @@
       <workItem from="1605743779667" duration="1161000" />
       <workItem from="1605806996318" duration="10255000" />
       <workItem from="1605982521891" duration="14048000" />
-      <workItem from="1606178854033" duration="798000" />
+      <workItem from="1606178854033" duration="1244000" />
+      <workItem from="1606252493817" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="Font Swatch Files Added">
       <created>1605673594011</created>
@@ -140,5 +150,9 @@
       <screen x="0" y="23" width="1440" height="783" />
     </state>
     <state x="509" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1606177831817" />
+    <state x="778" y="169" width="604" height="490" key="find.popup" timestamp="1606253355595">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state x="778" y="169" width="604" height="490" key="find.popup/0.23.1440.783@0.23.1440.783" timestamp="1606253355595" />
   </component>
 </project>

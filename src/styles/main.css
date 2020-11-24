@@ -140,4 +140,28 @@ h1, h2, h3, h4, h5, h6 {
   flex-grow: 2;
 }
 
+.logo-info {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.logo-info .logo-title {
+  margin-bottom: 0px;
+}
+.logo-info .sample-wrap {
+  display: flex;
+  justify-content: center;
+}
+.logo-info .sample-wrap #logo-sample {
+  width: 100%;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.logo-info .sample-wrap #logo-sample #logo-inner {
+  fill: var(--orange-phillys);
+}
+.logo-info .sample-wrap #logo-sample #logo-outer {
+  fill: var(--blue-phillys);
+}
+
 /*# sourceMappingURL=main.css.map */

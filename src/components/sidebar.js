@@ -1,8 +1,8 @@
 import React from "react"
 import { push as Menu } from "react-burger-menu"
 import { Link } from "gatsby"
-import Logo from "../images/logo.inline.svg"
-import Icon from "../images/icons/menu.inline.svg"
+import Logo from "../svg/logo.inline.svg"
+import Icon from "../svg/menu.inline.svg"
 
 const SideBar = ({menuLinks}) => {
     return(
