@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/background-image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fancy-quotes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/air-grab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/no-skate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/skate-practice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/background-image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/fancy-quotes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/font-swatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/font-swatch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/mission.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/mission.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/vision.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/vision.js" afterDir="false" />
-    </list>
+    <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +53,7 @@
       <workItem from="1605671394362" duration="3085000" />
       <workItem from="1605743779667" duration="1161000" />
       <workItem from="1605806996318" duration="10255000" />
-      <workItem from="1605982521891" duration="13026000" />
+      <workItem from="1605982521891" duration="13306000" />
     </task>
     <task id="LOCAL-00001" summary="Font Swatch Files Added">
       <created>1605673594011</created>
