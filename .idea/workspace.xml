@@ -53,7 +53,7 @@
       <workItem from="1605671394362" duration="3085000" />
       <workItem from="1605743779667" duration="1161000" />
       <workItem from="1605806996318" duration="10255000" />
-      <workItem from="1605982521891" duration="13306000" />
+      <workItem from="1605982521891" duration="13611000" />
     </task>
     <task id="LOCAL-00001" summary="Font Swatch Files Added">
       <created>1605673594011</created>
@@ -69,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605743911412</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Font Swatch Files Added">
+      <created>1606177494948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606177494948</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Font Swatch Files Added">
+      <created>1606177544757</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606177544757</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Font Swatch Files Added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1605673593880">
+    <state x="486" y="23" key="CommitChangelistDialog2" timestamp="1606177544656">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
-    <state x="486" y="23" key="CommitChangelistDialog2/0.23.1440.783@0.23.1440.783" timestamp="1605673593880" />
+    <state x="486" y="23" key="CommitChangelistDialog2/0.23.1440.783@0.23.1440.783" timestamp="1606177544656" />
     <state x="561" y="200" width="695" height="467" key="EditFileWatcherDialog" timestamp="1605736465167">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
@@ -108,9 +122,9 @@
       <screen x="0" y="23" width="1440" height="783" />
     </state>
     <state x="411" y="53" key="SettingsEditor/0.23.1440.783@0.23.1440.783" timestamp="1605808027545" />
-    <state x="509" y="154" key="Vcs.Push.Dialog.v2" timestamp="1605735935259">
+    <state x="509" y="154" key="Vcs.Push.Dialog.v2" timestamp="1606177831817">
       <screen x="0" y="23" width="1440" height="783" />
     </state>
-    <state x="509" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1605735935259" />
+    <state x="509" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1606177831817" />
   </component>
 </project>
