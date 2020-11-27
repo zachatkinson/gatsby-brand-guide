@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="257de50e-47ae-4d49-8d5f-2dd21e873915" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/svg/spacer-demo.inline.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/icons/menu.inline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg/menu.inline.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.inline.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/svg/logo.inline.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/logo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.css.map" afterDir="false" />
@@ -34,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/svg" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +49,7 @@
       <recent name="$PROJECT_DIR$/src/svg" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/svg" />
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
   </component>
@@ -71,6 +68,7 @@
       <workItem from="1605982521891" duration="14048000" />
       <workItem from="1606178854033" duration="1244000" />
       <workItem from="1606252493817" duration="2048000" />
+      <workItem from="1606447394897" duration="3022000" />
     </task>
     <task id="LOCAL-00001" summary="Font Swatch Files Added">
       <created>1605673594011</created>
