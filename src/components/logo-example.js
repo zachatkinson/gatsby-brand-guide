@@ -6,7 +6,7 @@ const LogoExample = (props) => {
 
         <div className={`logo-example`}>
             <div className={`logo-example-image`}>
-            <Image src={props.src} alt={props.imageAlt} />
+            <Image src={props.src} alt={props.alt} />
         </div>
             <div classname={`logo-example-description`}>
                 {props.desription}
