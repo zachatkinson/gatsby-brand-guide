@@ -2,7 +2,6 @@ import React, { useMemo } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
-import FontSwatch from "./font-swatch";
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
@@ -18,9 +17,7 @@ import FontSwatch from "./font-swatch";
 const Image = ({src, ...rest}) => {
   const data = useStaticQuery(graphql`
     query {
-      images: allFile(
-        filter: { internal: { mediaType: { regex: "/image/" } } }
-      ) {
+      images: allFile(filter: {internal: {}, dir: {regex: "/images/"}}) {
         edges {
           node {
             relativePath
