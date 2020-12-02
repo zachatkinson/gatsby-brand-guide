@@ -34,7 +34,7 @@ const LogoPage = () => (
             <p>The logo must always be presented large enough to clearly read</p>
             <h2 className={`logo-title`}><strong>Do</strong></h2>
             <hr/>
-            <LogoExample desription={`Variable Description`} src={`air-grab.jpg`} alt={`first example`} />
+            <LogoExample desription={`Variable Description`} src={`air-grab.jpg`} alt={`first example test`} />
             <h2 className={`logo-title`}><strong>Don't</strong></h2>
             <hr/>
         </div>
