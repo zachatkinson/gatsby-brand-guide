@@ -68,5 +68,7 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-# Jetbrains IDE Configs
+
+# IDE Configuration
 /.idea
+
