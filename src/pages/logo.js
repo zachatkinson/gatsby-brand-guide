@@ -5,6 +5,27 @@ import Logo from "../svg/logo.inline.svg"
 import Spacer from "../svg/spacer-demo.inline.svg"
 import LogoExample from "../components/logo-example";
 
+const Dos = [
+    {
+        src: `air-grab.jpg`,
+        alt: `Air Grab`,
+        description: `Check out this cool airgrab`,
+    },
+    {
+        src: `no-skate.jpg`,
+        alt: `No Skateboarding`,
+        description: `The rules of life are hard`,
+    },
+
+]
+const Donts = [
+    {
+        src: `gatsby-astronaut.png`,
+        alt: `Spaceman`,
+        description: `flight high`,
+    },
+]
+
 const LogoPage = () => (
     <Layout>
         <SEO title="Logo"/>
@@ -34,9 +55,14 @@ const LogoPage = () => (
             <p>The logo must always be presented large enough to clearly read</p>
             <h2 className={`logo-title`}><strong>Do</strong></h2>
             <hr/>
-            <LogoExample desription={`Variable Description`} src={`air-grab.jpg`} alt={`first example test`} />
+            {Dos.map(example => (
+                <LogoExample desription={example.description} src={example.src} alt={example.alt} />
+            ))}
             <h2 className={`logo-title`}><strong>Don't</strong></h2>
             <hr/>
+            {Donts.map(example => (
+                <LogoExample desription={example.description} src={example.src} alt={example.alt} />
+            ))}
         </div>
     </Layout>
 )
