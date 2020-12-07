@@ -111,6 +111,17 @@ h1, h2, h3, h4, h5, h6{
   flex-wrap: wrap;
 
 }
+.rule-list{
+  display: flex;
+  margin-bottom: 2rem;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+  @media only screen and (max-width: 600px){
+    flex-direction: column;
+  }
+
+}
 .bm-icon{
     &:hover{
       .icon-bg{

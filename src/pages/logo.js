@@ -7,22 +7,39 @@ import LogoExample from "../components/logo-example";
 
 const Dos = [
     {
-        src: `air-grab.jpg`,
-        alt: `Air Grab`,
-        description: `Check out this cool airgrab`,
+        src: `logo-primary-examples.png`,
+        alt: `Logo with Primary Brand Colors`,
+        rule: `Use Brand Colors`,
+        description: `Ue the Phillys logotype with any combination of the official primary color swatch.`,
     },
-    {
-        src: `no-skate.jpg`,
-        alt: `No Skateboarding`,
-        description: `The rules of life are hard`,
-    },
+
+
 
 ]
 const Donts = [
     {
-        src: `gatsby-astronaut.png`,
-        alt: `Spaceman`,
-        description: `flight high`,
+        src: `logo-tilted.png`,
+        alt: `Rotation Example`,
+        rule: `Rotate the logo`,
+        description: `Never rotate the logotype.`,
+    },
+    {
+        src: `logo-skew.png`,
+        alt: `Bad Aspect Ratio Example`,
+        rule: `Alter the Aspect Ratio`,
+        description: `Never alter the aspect ratio of the logo, or apply any distortion.`,
+    },
+    {
+        src: `logo-badcolor.png`,
+        alt: `Bad Color Example`,
+        rule: `Use Offbrand Colors`,
+        description: `Never alter the logotype using unofficial colors.`,
+    },
+    {
+        src: `logo-shadow.png`,
+        alt: `Shadow Example`,
+        rule: `Add effects`,
+        description: `Never add effects or shadows to the logotype.`,
     },
 ]
 
@@ -55,14 +72,18 @@ const LogoPage = () => (
             <p>The logo must always be presented large enough to clearly read</p>
             <h2 className={`logo-title`}><strong>Do</strong></h2>
             <hr/>
+            <div className={`rule-list`}>
             {Dos.map(example => (
-                <LogoExample desription={example.description} src={example.src} alt={example.alt} />
+                <LogoExample desription={example.description} src={example.src} alt={example.alt} rule={example.rule} />
             ))}
+            </div>
             <h2 className={`logo-title`}><strong>Don't</strong></h2>
             <hr/>
+            <div className={`rule-list`}>
             {Donts.map(example => (
-                <LogoExample desription={example.description} src={example.src} alt={example.alt} />
+                <LogoExample desription={example.description} src={example.src} alt={example.alt} rule={example.rule} />
             ))}
+            </div>
         </div>
     </Layout>
 )
